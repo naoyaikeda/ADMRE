@@ -1,5 +1,8 @@
 .vscode/
 ADMRE
 *.o
+*.ipynb
+*.html
 output*
 expLoad_log.txt
+ADMRE-DAT.*
